@@ -1,0 +1,34 @@
+header{
+    width: 100%;
+    height: 10%;
+    padding: 5px 0px;
+    background-color: rgb(90, 143, 190);
+    text-align: center;
+    color: white;
+}
+main section{
+    margin: auto;
+    padding-top: 10px;
+    max-width: 90%;
+    background-color: bisque;
+}
+main section .listas{
+    display: flex;
+}
+main section h2{
+    text-align: center;
+}
+main section .box{
+    width: 33%;
+    background-color: rgb(167, 181, 221);
+    margin: 0px 5px;
+}
+footer{ 
+    width: 100%;
+    height: 10%;
+    padding: 5px 0px;
+    background-color: rgb(90, 143, 190);
+    text-align: center;
+    color: white;
+    font-size: 10px;
+}
